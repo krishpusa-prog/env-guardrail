@@ -50,3 +50,5 @@ coverage/
 # Temporary / Tarball Files
 *.tgz
 *.tar.gz
+
+./demo.gif

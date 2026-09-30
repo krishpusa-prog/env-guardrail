@@ -1,5 +1,7 @@
 # env-guardrail 🛡️
 
+![env-guardrail demo](./demo.gif)
+
 > Audit `.env` files against your codebase to catch missing variables, dead keys, and leaked production secrets before committing.
 
 ## ⚡ Features
